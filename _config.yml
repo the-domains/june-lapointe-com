@@ -1,0 +1,14 @@
+layout_spectrum: 0.9862604
+typography_spectrum: 0.574074
+color:
+  saturation: 0.5191159
+  lightness: 0.5238948
+  brandStrength: 0.7628435
+  brandColors:
+    - '#1F150D'
+    - '#C6A378'
+    - '#FFF2D8'
+    - '#9A7952'
+    - '#FCAB91'
+  rhythmicContrast: 0.5143369
+name: June LaPointe.com
