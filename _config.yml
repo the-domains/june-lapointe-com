@@ -1,3 +1,7 @@
+name: June LaPointe.com
+favicon: null
+layout_spectrum: 0.9862604
+typography_spectrum: 0.3936679
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 1
   brandColors:
-    - '#91413A'
-    - '#FBA291'
-    - '#C76D5C'
-    - '#4C271E'
-    - '#FBE1CF'
+    - '#f1e5cc'
+    - '#190a20'
+    - '#beac93'
+    - '#c47347'
+    - '#2c6b6c'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0
   rhythmicContrast: 1
-typography_spectrum: 0.3936679
-layout_spectrum: 0.9862604
-name: June LaPointe.com
+purpose: []
