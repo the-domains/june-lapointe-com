@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.3936679
+    permalink:
+      path: '/:title/'
 color:
   saturation: 1
   brandStrength: 1
   lightness: 1
   brandColors:
-    - '#1F150D'
-    - '#C6A378'
-    - '#FFF2D8'
-    - '#9A7952'
-    - '#FCAB91'
+    - '#91413A'
+    - '#FBA291'
+    - '#C76D5C'
+    - '#4C271E'
+    - '#FBE1CF'
   rhythmicContrast: 1
+typography_spectrum: 0.3936679
 layout_spectrum: 0.9862604
 name: June LaPointe.com
