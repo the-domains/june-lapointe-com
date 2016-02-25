@@ -1,14 +1,26 @@
-layout_spectrum: 0.9862604
-typography_spectrum: 0.574074
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.3936679
 color:
-  saturation: 0.5191159
-  lightness: 0.5238948
-  brandStrength: 0.7628435
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
   brandColors:
     - '#1F150D'
     - '#C6A378'
     - '#FFF2D8'
     - '#9A7952'
     - '#FCAB91'
-  rhythmicContrast: 0.5143369
+  rhythmicContrast: 1
+layout_spectrum: 0.9862604
 name: June LaPointe.com
